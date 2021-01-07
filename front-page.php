@@ -4,5 +4,6 @@
     <h1>Página de bienvenida</h1>
     <a href="blog">Visita mi blog</a>
     
-</body>
-</html>
+<?php
+    get_footer( );
+?>
