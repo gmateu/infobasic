@@ -4,7 +4,7 @@ function infobasic_config(){
 
     register_nav_menus(
         array(
-            'infobasic_main_menu' => 'info basic menú principal',
+            'infobasic_main_menu' => 'Info Basic menú principal',
         )
     );
 
