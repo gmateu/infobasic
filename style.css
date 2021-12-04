@@ -50,6 +50,11 @@ body{
     height: 400px;
 }
 
+.jumbo-front{
+    background-image: url(inc/img/jumbo-front.png);
+    background-repeat: no-repeat;
+}
+
 .jumbo-tienda{
     background-image: url(inc/img/jumbo-botiga.png);
     background-repeat: no-repeat;
